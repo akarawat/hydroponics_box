@@ -1,0 +1,2 @@
+https://iotdesignpro.com/articles/esp32-data-logging-to-google-sheets-with-google-scripts
+-------------------------

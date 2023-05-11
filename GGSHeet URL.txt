@@ -1,0 +1,39 @@
+getOnOffMotor.gs
+AKfycbz5sVlZluAKNjZ3LXX2Bnn4j406v741Bsvr3MMmcnarU7DSRFQ-XEaW_ME9IjNuTIQn2Q
+https://script.google.com/macros/s/AKfycbz5sVlZluAKNjZ3LXX2Bnn4j406v741Bsvr3MMmcnarU7DSRFQ-XEaW_ME9IjNuTIQn2Q/exec
+
+postOnOffMotor.gs
+AKfycbxFmyn4yyqGKnnmug_b-YdcdLvVt_0Lv1cBRhOCTNh8djge151CRdEGxvvWPxiQ9CM-bw
+https://script.google.com/macros/s/AKfycbxFmyn4yyqGKnnmug_b-YdcdLvVt_0Lv1cBRhOCTNh8djge151CRdEGxvvWPxiQ9CM-bw/exec
+
+getOnOffMotor_2.gs
+AKfycbz4IxKP0sFutXPReEzCsxKvOvhm4ZpKEhP4H_DG91p9SGoceQxo0oRpMYXm7Hww9RbIJg
+https://script.google.com/macros/s/AKfycbz4IxKP0sFutXPReEzCsxKvOvhm4ZpKEhP4H_DG91p9SGoceQxo0oRpMYXm7Hww9RbIJg/exec
+
+getOnOffMotor_2.gs [2.1]
+AKfycby26-2bAzSWP7SChCgdwW0jFasB0KAG1_uxAYVl2q3zpIy7KdH9wlhRbHpf6hhcvgG88Q
+https://script.google.com/macros/s/AKfycby26-2bAzSWP7SChCgdwW0jFasB0KAG1_uxAYVl2q3zpIy7KdH9wlhRbHpf6hhcvgG88Q/exec
+
+postOnOffMotor_2.gs
+AKfycbzjCoLHh2dnxMQX_sSrgxLSkKNfqG8Id-4tPSxaScbPsLXbtS0-Ivw-9XeayXK7eCsK
+https://script.google.com/macros/s/AKfycbzjCoLHh2dnxMQX_sSrgxLSkKNfqG8Id-4tPSxaScbPsLXbtS0-Ivw-9XeayXK7eCsK/exec
+
+// Update EC, Temp, Humidity Only
+esp_post_ec_t1.gs
+AKfycbyEIi2sIOaG6bi_oX41dQzaD3k4BZ4kFGTeL3F-Fg-vCDwEjEsUU4RBnwljkRowq1JLCw
+https://script.google.com/macros/s/AKfycbyEIi2sIOaG6bi_oX41dQzaD3k4BZ4kFGTeL3F-Fg-vCDwEjEsUU4RBnwljkRowq1JLCw/exec
+
+AKfycbz731ZEdCO6UJtJBRq44VMCP3oLkRQnPEXbRjDngnD0iIT8BDrnsDizmZ82Gj0zzS1eyQ
+https://script.google.com/macros/s/AKfycbz731ZEdCO6UJtJBRq44VMCP3oLkRQnPEXbRjDngnD0iIT8BDrnsDizmZ82Gj0zzS1eyQ/exec
+
+# Production on postEcTempPh.gs
+https://script.google.com/macros/s/AKfycbwruQ_RawlyJpjT-Tyqgb-wigKvHavnyH9HPvEYdSM3ff3Ns-Oi1F3KivywcIcUU58ZdQ/exec?cur_ec=30.55&cur_temp=40.55&cur_hum=50.55
+
+https://script.google.com/macros/s/AKfycbwruQ_RawlyJpjT-Tyqgb-wigKvHavnyH9HPvEYdSM3ff3Ns-Oi1F3KivywcIcUU58ZdQ/exec
+
+https://script.google.com/macros/s/AKfycbzOMIkAL0OR47fmWX_kVN7o572Ei-PxHSY63qtD9349atCNbV1gI1dF8ppGxfKMEVgSCg/exec?sensor=35&date=1103
+
+https://script.google.com/macros/s/AKfycbxkgzrxGNkW0_8aUeksX8bNXt_sBWpPBUJw3BMbtPMezB07Ef1jRsGuECSmqYrQx5ISFw/exec?cur_ec=30.55&cur_temp=40.55&cur_hum=50.55
+
+
+https://script.google.com/macros/s/AKfycbxkgzrxGNkW0_8aUeksX8bNXt_sBWpPBUJw3BMbtPMezB07Ef1jRsGuECSmqYrQx5ISFw/exec?cur_ec=30.55&cur_temp=40.55&cur_hum=50.55
